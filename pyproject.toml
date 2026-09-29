@@ -1,0 +1,27 @@
+[project]
+name = "structured-output-agent"
+version = "0.1.0"
+description = "Turn messy job postings into strictly validated JSON, with retry-on-error and a measured eval."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic>=2.6",
+    "anthropic>=0.40",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+openai = ["openai>=1.40"]
+dev = ["pytest>=8.0"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["live: hits a real LLM API (deselected by default)"]
+addopts = "-m 'not live'"
