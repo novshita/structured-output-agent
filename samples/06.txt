@@ -1,0 +1,11 @@
+Brightline Games is looking for a Contract QA Tester!
+
+📍 Remote (US only)
+💼 6-month contract, possible extension
+💵 $45–$55/hr
+
+You'll run manual and exploratory test passes on our upcoming mobile title, write clear bug reports in Jira, and verify fixes.
+
+Nice to have: 1–2 years of QA experience, familiarity with TestRail, a love of games.
+
+Apply: https://brightline-games.example/jobs/qa-contract

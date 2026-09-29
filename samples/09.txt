@@ -1,0 +1,14 @@
+<html><body>
+<div class="cookie-banner">We use cookies to improve your experience. <button>Accept all</button> <button>Manage</button></div>
+<nav>Home | Jobs | About | Sign in</nav>
+<div class="job-header"><h1>Job Title: DevOps Engineer</h1>
+<span class="company">Company: Stratus Cloud Inc.</span>
+<span class="loc">Location: Remote (Canada)</span></div>
+<div class="job-body">
+<p>Stratus Cloud runs managed Postgres for 3,000 customers. Join our SRE/DevOps team.</p>
+<ul><li>3+ years operating production infrastructure</li><li>Terraform, Kubernetes, AWS</li><li>On-call rotation (1 week in 6)</li></ul>
+<p>Salary range: CAD 110,000 – 125,000 annually. Full-time, permanent.</p>
+<a href="https://stratuscloud.example/jobs/devops-2291">Apply now</a>
+</div>
+<footer>© Stratus Cloud Inc. Privacy · Terms · Similar jobs: SRE, Platform Engineer, Cloud Engineer</footer>
+</body></html>

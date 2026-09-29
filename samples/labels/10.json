@@ -1,0 +1,21 @@
+{
+  "title": "Frontend Developer (React)",
+  "company": "Studio Parallax",
+  "location": "Warszawa",
+  "work_mode": "onsite",
+  "employment_type": "full_time",
+  "seniority": "unspecified",
+  "salary": {
+    "min": 18000,
+    "max": 24000,
+    "currency": "PLN",
+    "period": "month"
+  },
+  "required_skills": [
+    "css",
+    "react",
+    "typescript"
+  ],
+  "years_experience_min": 2,
+  "apply_url": null
+}

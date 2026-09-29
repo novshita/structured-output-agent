@@ -1,0 +1,20 @@
+{
+  "title": "Contract QA Tester",
+  "company": "Brightline Games",
+  "location": "Remote (US only)",
+  "work_mode": "remote",
+  "employment_type": "contract",
+  "seniority": "junior",
+  "salary": {
+    "min": 45,
+    "max": 55,
+    "currency": "USD",
+    "period": "hour"
+  },
+  "required_skills": [
+    "jira",
+    "testrail"
+  ],
+  "years_experience_min": 1,
+  "apply_url": "https://brightline-games.example/jobs/qa-contract"
+}

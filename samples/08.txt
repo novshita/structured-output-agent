@@ -1,0 +1,20 @@
+🚀🚀 WE'RE HIRING!!! 🚀🚀
+
+ML ENGINEER
+@ NEURALNEST
+
+fully remote 🌍 (anywhere +/- 3h of CET)
+
+we're a 12 person team building
+LLM eval tooling. you'd
+- own our training
+  + inference infra
+- ship fast!!!
+
+MUST: pytorch, python, 4+ yrs
+NICE: triton, cuda
+
+💰 $130k - 160k + equity
+SENIOR level. full time.
+
+👉 neuralnest.example/careers

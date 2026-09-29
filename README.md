@@ -2,9 +2,9 @@
 
 **Makes an LLM reliable instead of random: turns messy job postings into strictly validated JSON, retries with the exact error when output is invalid, and measures how well that works.**
 
-> Headline metric: first-try validity **TBD%** → final validity **TBD%** (after retry-with-feedback), measured on 20+ real postings. See [Evaluation](#evaluation-results).
+> Headline metric: first-try validity **TBD%** → final validity **TBD%** (after retry-with-feedback), measured on 24 synthetic hard-case postings. See [Evaluation](#evaluation-results).
 
-> **Status:** 🚧 In development. Extractor, retry loop, tool validation, SQLite logging and the eval harness are implemented and unit-tested; the sample dataset and live eval run are next (see [SPEC.md](SPEC.md)).
+> **Status:** 🚧 In development. Extractor, retry loop, tool validation, SQLite logging and the eval harness are implemented and unit-tested; a synthetic sample dataset is in place; the live eval run is next (see [SPEC.md](SPEC.md)).
 
 ---
 
@@ -132,7 +132,7 @@ attempts(id, run_id, input_hash, attempt_no, raw_output, error_type,
 
 > ⏳ Not yet run. These tables are filled in from [`eval/results.md`](eval/results.md), which `python -m agent eval samples/` generates.
 
-**Dataset:** 20+ real job postings in `samples/`, chosen to be varied and hard: messy formatting, missing salary, non-English fragments, multiple locations, very short and very long. 10+ of them have hand-labelled ground truth in `samples/labels/`.
+**Dataset:** 24 synthetic job postings in `samples/`, written to be varied and hard: messy formatting, missing salary, non-English fragments, multiple locations, very short and very long. 12 of them have hand-labelled ground truth in `samples/labels/`. See [samples/README.md](samples/README.md) for what each one tests.
 
 **Baseline vs. full agent**
 
@@ -179,7 +179,7 @@ attempts(id, run_id, input_hash, attempt_no, raw_output, error_type,
 
 - Valid does not mean correct. The schema guarantees shape, not truth, so a well-formed but wrong `company` still passes. The field-level accuracy numbers measure this gap.
 - `confidence` is self-reported by the model and not yet calibrated.
-- The dataset is small (20–30 postings), so treat the percentages as directional.
+- The dataset is small (24 postings) and synthetic, so treat the percentages as directional.
 - Inputs are plain text files only. There is no scraping and no HTML or PDF parsing.
 
 ## What I'd do next

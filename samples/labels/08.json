@@ -1,0 +1,20 @@
+{
+  "title": "ML Engineer",
+  "company": "NeuralNest",
+  "location": "Remote (CET +/- 3h)",
+  "work_mode": "remote",
+  "employment_type": "full_time",
+  "seniority": "senior",
+  "salary": {
+    "min": 130000,
+    "max": 160000,
+    "currency": "USD",
+    "period": "year"
+  },
+  "required_skills": [
+    "python",
+    "pytorch"
+  ],
+  "years_experience_min": 4,
+  "apply_url": "https://neuralnest.example/careers"
+}

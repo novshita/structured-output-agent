@@ -1,0 +1,20 @@
+{
+  "title": "Lead Platform Engineer",
+  "company": "Orbital Insurance",
+  "location": "Toronto",
+  "work_mode": "hybrid",
+  "employment_type": "full_time",
+  "seniority": "lead",
+  "salary": {
+    "min": 170000,
+    "max": 195000,
+    "currency": "CAD",
+    "period": "year"
+  },
+  "required_skills": [
+    "aws",
+    "kubernetes"
+  ],
+  "years_experience_min": 8,
+  "apply_url": null
+}

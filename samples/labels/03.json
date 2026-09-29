@@ -1,0 +1,21 @@
+{
+  "title": "Senior Backend Engineer (Go)",
+  "company": "Kiefer Logistik GmbH",
+  "location": "Hamburg",
+  "work_mode": "hybrid",
+  "employment_type": "full_time",
+  "seniority": "senior",
+  "salary": {
+    "min": 65000,
+    "max": 80000,
+    "currency": "EUR",
+    "period": "year"
+  },
+  "required_skills": [
+    "go",
+    "kubernetes",
+    "postgresql"
+  ],
+  "years_experience_min": 5,
+  "apply_url": "https://kiefer-logistik.example/karriere/backend-go"
+}

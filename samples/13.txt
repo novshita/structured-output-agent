@@ -1,0 +1,55 @@
+Staff Software Engineer, Clinical Data Platform
+Helix Health · New York, NY or Remote (US)
+
+About Helix Health
+Helix Health builds software that helps 400+ hospitals coordinate care for patients with chronic conditions. Since our founding in 2017, we have grown to more than 600 employees across four countries, and our platform now supports over two million patient journeys every year. We are backed by leading healthcare investors and are proud to be a certified B Corp.
+
+Our mission is simple: make it easier for care teams to do the right thing for every patient, every time. That means building systems that are reliable, secure, and intuitive — systems that clinicians trust at 3am in an ICU as much as at 3pm in a primary-care clinic.
+
+The team
+The Clinical Data Platform team owns the ingestion, normalisation and serving of clinical data from hundreds of EHR integrations (HL7v2, FHIR, flat files and everything in between). We are a team of 14 engineers, 2 product managers and a data-quality specialist, distributed across New York, Denver and remote.
+
+What you'll do
+- Set technical direction for the platform in partnership with the engineering manager and principal engineers
+- Lead the design of our next-generation FHIR-native data store
+- Drive reliability: we run 99.95% SLOs and you'll help us get to 99.99%
+- Mentor senior engineers and raise the bar on code review and design docs
+- Represent the platform in architecture reviews across the company
+- Work closely with our security and compliance teams on HIPAA and SOC 2 controls
+
+What you'll bring
+- 10+ years of software engineering experience, with 3+ at staff level or equivalent
+- Deep experience with distributed systems in Java or Kotlin
+- Production experience with Kafka, PostgreSQL and a major cloud provider (we use GCP)
+- Familiarity with healthcare data standards (FHIR, HL7) is a strong plus
+- Excellent written communication
+
+Nice to have
+- Experience with Apache Beam or Flink
+- Contributions to open source
+- Prior experience in a regulated industry
+
+Compensation and benefits
+The base salary range for this role is $225,000 – $265,000 per year. Final offers are based on skills, experience and location. This role is also eligible for equity and an annual bonus.
+
+- Comprehensive medical, dental and vision coverage (100% of premiums covered for employees)
+- 401(k) with 4% match
+- 20 days PTO plus 11 company holidays and a winter break
+- 16 weeks paid parental leave for all parents
+- $1,500 annual learning budget
+- Home office stipend for remote employees
+- Monthly wellness stipend
+
+Our hiring process
+1. 30-minute intro call with a recruiter
+2. 60-minute technical conversation with an engineer on the team
+3. Virtual onsite: system design, coding, and values interviews
+4. Meet the leadership team
+We aim to complete the process within three weeks and we'll keep you updated at every step.
+
+Equal opportunity
+Helix Health is an equal opportunity employer. We welcome applicants of all backgrounds and do not discriminate on the basis of race, colour, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. If you need an accommodation during the application process, please contact accommodations@helixhealth.example.
+
+Please note: Helix Health will never ask for payment or banking details during the hiring process. All legitimate communication comes from an @helixhealth.example address.
+
+Apply: https://helixhealth.example/careers/staff-engineer-cdp

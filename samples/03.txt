@@ -1,0 +1,20 @@
+Senior Backend Engineer (Go)
+
+Kiefer Logistik GmbH · Hamburg · Hybrid (2 Tage Homeoffice pro Woche)
+
+Wir sind ein familiengeführtes Logistikunternehmen mit 1.200 Mitarbeitenden und bauen unsere Routing-Plattform neu.
+
+Deine Aufgaben:
+• Entwicklung von Microservices in Go
+• Betrieb auf Kubernetes (GKE)
+• Code Reviews und Mentoring
+
+Dein Profil:
+• Mind. 5 Jahre Erfahrung in der Backend-Entwicklung
+• Sehr gute Kenntnisse in Go, Kubernetes und PostgreSQL
+• Deutsch oder Englisch fließend
+
+Gehalt: 65.000 € – 80.000 € brutto jährlich
+Vollzeit, unbefristet.
+
+Bewerbung: https://kiefer-logistik.example/karriere/backend-go

@@ -1,0 +1,19 @@
+{
+  "title": "Product Manager, Payments",
+  "company": "Lumen Pay",
+  "location": "London, Dublin or Lisbon",
+  "work_mode": "hybrid",
+  "employment_type": "full_time",
+  "seniority": "unspecified",
+  "salary": {
+    "min": 85000,
+    "max": 105000,
+    "currency": "GBP",
+    "period": "year"
+  },
+  "required_skills": [
+    "sql"
+  ],
+  "years_experience_min": 4,
+  "apply_url": null
+}

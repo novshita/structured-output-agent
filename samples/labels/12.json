@@ -1,0 +1,19 @@
+{
+  "title": "Part-Time Bookkeeper",
+  "company": "Maple & Finch Bakery",
+  "location": "Portland, OR",
+  "work_mode": "onsite",
+  "employment_type": "part_time",
+  "seniority": "unspecified",
+  "salary": {
+    "min": null,
+    "max": 28,
+    "currency": "USD",
+    "period": "hour"
+  },
+  "required_skills": [
+    "quickbooks"
+  ],
+  "years_experience_min": null,
+  "apply_url": null
+}

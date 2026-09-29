@@ -1,0 +1,21 @@
+{
+  "title": "DevOps Engineer",
+  "company": "Stratus Cloud Inc.",
+  "location": "Remote (Canada)",
+  "work_mode": "remote",
+  "employment_type": "full_time",
+  "seniority": "unspecified",
+  "salary": {
+    "min": 110000,
+    "max": 125000,
+    "currency": "CAD",
+    "period": "year"
+  },
+  "required_skills": [
+    "aws",
+    "kubernetes",
+    "terraform"
+  ],
+  "years_experience_min": 3,
+  "apply_url": "https://stratuscloud.example/jobs/devops-2291"
+}

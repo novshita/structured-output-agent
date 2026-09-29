@@ -32,6 +32,9 @@ Rules:
 - Use null for any optional field the posting does not state. Do not guess salaries or URLs.
 - salary.currency must be an ISO 4217 code (e.g. "USD"). salary.period is "hour", "month" or "year".
 - Express salary amounts as plain integers in the stated currency (e.g. 120k -> 120000).
+- A single salary figure: "up to X" sets only max, "from X" sets only min, a plain "X" sets both.
+- If several salary ranges are listed (e.g. per location), use the first one.
+- Copy the job title as written, without the company name or location.
 - confidence is your 0-1 estimate that every field you filled in is correct.
 
 Tools: if you need one, reply with ONLY {{"tool_call": {{"name": <tool>, "arguments": {{...}}}}}} \

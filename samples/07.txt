@@ -1,0 +1,15 @@
+Zentrix Technologies Pvt. Ltd. — Full Stack Developer
+
+Location: Bengaluru (Hybrid - 3 days WFO)
+Experience: 3-5 yrs
+CTC: 18-24 LPA
+Notice period: Immediate to 30 days preferred
+
+Skills: React, Node.js, TypeScript, MongoDB, AWS
+
+JD:
+- Build and ship features end to end on our B2B SaaS platform
+- Write clean, tested code
+- Participate in sprint planning
+
+Interested candidates share resume at hr@zentrix.example

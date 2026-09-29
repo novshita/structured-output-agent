@@ -1,0 +1,23 @@
+{
+  "title": "Full Stack Developer",
+  "company": "Zentrix Technologies Pvt. Ltd.",
+  "location": "Bengaluru",
+  "work_mode": "hybrid",
+  "employment_type": "unspecified",
+  "seniority": "mid",
+  "salary": {
+    "min": 1800000,
+    "max": 2400000,
+    "currency": "INR",
+    "period": "year"
+  },
+  "required_skills": [
+    "aws",
+    "mongodb",
+    "node.js",
+    "react",
+    "typescript"
+  ],
+  "years_experience_min": 3,
+  "apply_url": null
+}

@@ -1,0 +1,20 @@
+Senior Data Engineer
+Northwind Analytics — Chicago, IL (Hybrid, 3 days/week in office)
+
+About the role
+Northwind Analytics helps mid-size retailers forecast demand. We're looking for a Senior Data Engineer to own our batch and streaming pipelines.
+
+What you'll do
+- Design and maintain Airflow DAGs that move ~2TB/day
+- Build Spark jobs for feature generation
+- Partner with analysts on data modelling in our warehouse
+
+What we're looking for
+- 6+ years of data engineering experience
+- Strong Python and SQL
+- Hands-on Airflow and Spark
+
+Compensation: $150,000 – $180,000 per year, plus bonus.
+Employment type: Full-time
+
+Apply at https://careers.northwind-analytics.example/jobs/senior-data-engineer

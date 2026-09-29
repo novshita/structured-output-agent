@@ -1,0 +1,22 @@
+{
+  "title": "Senior Data Engineer",
+  "company": "Northwind Analytics",
+  "location": "Chicago, IL",
+  "work_mode": "hybrid",
+  "employment_type": "full_time",
+  "seniority": "senior",
+  "salary": {
+    "min": 150000,
+    "max": 180000,
+    "currency": "USD",
+    "period": "year"
+  },
+  "required_skills": [
+    "airflow",
+    "python",
+    "spark",
+    "sql"
+  ],
+  "years_experience_min": 6,
+  "apply_url": "https://careers.northwind-analytics.example/jobs/senior-data-engineer"
+}

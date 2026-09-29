@@ -1,0 +1,9 @@
+Desarrollador/a Python Semi-Senior
+
+Andes Digital SpA — Santiago, Chile — 100% remoto
+
+Buscamos una persona desarrolladora con 3 años o más de experiencia en Python, Django y PostgreSQL para sumarse a nuestro equipo de pagos.
+
+Ofrecemos: sueldo líquido de CLP 2.500.000 a 3.000.000 mensuales, jornada completa, contrato indefinido.
+
+Postula en https://andesdigital.example/empleos/python

@@ -1,0 +1,8 @@
+Role: Security Analyst II
+Org: City of Riverton, Department of Information Technology
+Type: Full time, permanent
+Location: Riverton City Hall (onsite)
+Pay: $72,418.00 - $88,212.00 Annually
+Exp: 3 yrs SOC / incident response
+Certs: Security+ or CySA+ required within 6 months
+Closes: 11/15

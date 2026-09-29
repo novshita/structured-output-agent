@@ -14,7 +14,8 @@ _CURRENCY_ALIASES = {
     "£": "GBP", "gbp": "GBP", "pound": "GBP", "pounds": "GBP",
     "₹": "INR", "inr": "INR", "rs": "INR", "rs.": "INR", "rupee": "INR", "rupees": "INR",
     "c$": "CAD", "cad": "CAD", "a$": "AUD", "aud": "AUD",
-    "¥": "JPY", "jpy": "JPY", "yen": "JPY",
+    "¥": "JPY", "jpy": "JPY", "yen": "JPY", "円": "JPY", "万円": "JPY",
+    "zł": "PLN", "pln": "PLN", "clp": "CLP",
     "chf": "CHF", "sgd": "SGD", "s$": "SGD", "aed": "AED", "dirham": "AED",
 }
 
